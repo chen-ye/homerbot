@@ -1,0 +1,20 @@
+{
+  "name": "homerbot",
+  "version": "0.0.0",
+  "private": true,
+  "author": "cye@brown.edu",
+  "description": "An experiment in natural language interactive storytelling",
+  "dependencies": {
+    "hubot": "^2.18.0",
+    "hubot-chunkify": "chen-ye/hubot-chunkify",
+    "hubot-diagnostics": "0.0.1",
+    "hubot-fb": "chen-ye/hubot-fb",
+    "hubot-help": "^0.1.3",
+    "hubot-redis-brain": "0.0.3",
+    "hubot-wit-ai": "chen-ye/hubot-wit-ai",
+    "hubot-zmachine": "chen-ye/hubot-zmachine"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
