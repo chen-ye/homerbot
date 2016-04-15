@@ -15,6 +15,6 @@
     "hubot-zmachine": "chen-ye/hubot-zmachine"
   },
   "engines": {
-    "node": "0.10.x"
+    "node": ">=4.2.3"
   }
 }
